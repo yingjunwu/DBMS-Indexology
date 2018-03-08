@@ -49,3 +49,11 @@ http://www.vldb.org/pvldb/vol9/p96-richter.pdf), in VLDB, 2015.
 ## Approximate Indexing
 * M. Athanassoulis, et al., [BF-Tree: Approximate Tree Indexing](http://www.vldb.org/pvldb/vol7/p1881-athanassoulis.pdf), in VLDB, 2014.
 * T. Kraska, et al., [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208), in CoRR, 2017.
+
+- - -
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Yingjun Wu](https://yingjunwu.github.io/) has waived all copyright and related or neighboring rights to this work.
