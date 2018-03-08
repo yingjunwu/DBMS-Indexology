@@ -1,6 +1,6 @@
 # DBMS Indexology
 
-This repository contains a list of papers that focus on the design and implementation of index structures in modern database management systems (DBMSs). To better exhibit the design trend in this area, this reading list is intended to only contain high-quality papers published in top-tier conferences/journals. If you have any paper in mind that you think awesome and would fit in this list, please feel free to send a [pull request](https://github.com/yingjunwu/DBMS-Indexology/pulls).
+This repository contains a list of papers that focus on the design and implementation of index structures in modern database management systems (DBMSs). To better exhibit the design trend in this research area, this reading list is intended to only contain high-quality papers published in top-tier conferences/journals. If you have any paper in mind that you think awesome and would fit in this list, please feel free to send a [pull request](https://github.com/yingjunwu/DBMS-Indexology/pulls).
 
 - - -
 
@@ -23,6 +23,8 @@ This repository contains a list of papers that focus on the design and implement
 
 ## NVM-Based Tree Indexing
 * S. Chen, et al., [Persistent B+-Trees in Non-Volatile Main Memory](http://www.vldb.org/pvldb/vol8/p786-chen.pdf), in VLDB, 2015.
+* I. Oukid, et al., [FPTree: A Hybrid SCM-DRAM Persistent and Concurrent B-Tree for Storage Class Memory](https://dl.acm.org/citation.cfm?id=2915251), in SIGMOD, 2016.
+* S. Lee, et al., [WORT: Write Optimal Radix Tree for Persistent Memory Storage Systems](https://www.usenix.org/system/files/conference/fast17/fast17-lee.pdf), in FAST, 2017.
 
 ## In-Memory Tree Indexing
 * T. Lehman, et al., [A Study of Index Structures for Main Memory Database Management Systems](http://www.vldb.org/conf/1986/P294.PDF), in VLDB, 1986.
