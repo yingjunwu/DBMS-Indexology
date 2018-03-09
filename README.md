@@ -30,6 +30,7 @@ This repository contains a list of papers that focus on the design and implement
 * T. Lehman, et al., [A Study of Index Structures for Main Memory Database Management Systems](http://www.vldb.org/conf/1986/P294.PDF), in VLDB, 1986.
 * J. Rao, et al., [Cache Conscious Indexing for Decision-Support in Main Memory](http://www.vldb.org/conf/1999/P7.pdf), in VLDB, 1999.
 * J. Rao, et al., [CSB+Tree Making B+-Trees Cache Conscious in Main Memory](https://dl.acm.org/citation.cfm?id=335449), in SIGMOD, 2000.
+* M. Bender, et al., [Cache-Oblivious Streaming B-Trees](https://dl.acm.org/citation.cfm?id=1248393), in SPAA, 2007.
 * C. Kim, et al., [FAST: Fast Architecture Sensitive Tree Search on Modern CPUs and GPUs](https://dl.acm.org/citation.cfm?id=1807206), in SIGMOD, 2010.
 * Y. Mao, et al., [Cache Craftiness for Fast Multicore Key-Value Storage](https://dl.acm.org/citation.cfm?id=2168855), in EuroSys, 2012.
 * J. Levandoski, et al, [The Bw-Tree: A B-tree for New Hardware Platforms](https://www.microsoft.com/en-us/research/publication/the-bw-tree-a-b-tree-for-new-hardware/), ICDE, 2013.
