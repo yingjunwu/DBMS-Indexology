@@ -33,7 +33,7 @@ This repository contains a list of papers that focus on the design and implement
 * M. Bender, et al., [Cache-Oblivious Streaming B-Trees](https://dl.acm.org/citation.cfm?id=1248393), in SPAA, 2007.
 * C. Kim, et al., [FAST: Fast Architecture Sensitive Tree Search on Modern CPUs and GPUs](https://dl.acm.org/citation.cfm?id=1807206), in SIGMOD, 2010.
 * Y. Mao, et al., [Cache Craftiness for Fast Multicore Key-Value Storage](https://dl.acm.org/citation.cfm?id=2168855), in EuroSys, 2012.
-* J. Levandoski, et al, [The Bw-Tree: A B-tree for New Hardware Platforms](https://www.microsoft.com/en-us/research/publication/the-bw-tree-a-b-tree-for-new-hardware/), ICDE, 2013.
+* J. Levandoski, et al., [The Bw-Tree: A B-tree for New Hardware Platforms](https://www.microsoft.com/en-us/research/publication/the-bw-tree-a-b-tree-for-new-hardware/), ICDE, 2013.
 * V. Leis, et al., [The Adaptive Radix Tree: ARTful Indexing for Main-Memory Databases](https://db.in.tum.de/~leis/papers/ART.pdf), in ICDE, 2013.
 * V. Leis, et al., [The ART of Practical Synchronization](https://dl.acm.org/citation.cfm?id=2933352), in DaMoN, 2016.
 * H. Zhang, et al., [Reducing the Storage Overhead of Main-Memory OLTP Databases with Hybrid Indexes](https://dl.acm.org/citation.cfm?id=2915222), in SIGMOD, 2016.
