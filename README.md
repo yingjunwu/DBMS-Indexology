@@ -50,7 +50,7 @@ http://www.vldb.org/pvldb/vol9/p96-richter.pdf), in VLDB, 2015.
 ## Approximate Indexing
 * M. Athanassoulis, et al., [BF-Tree: Approximate Tree Indexing](http://www.vldb.org/pvldb/vol7/p1881-athanassoulis.pdf), in VLDB, 2014.
 * T. Kraska, et al., [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208), in CoRR, 2017.
-
+* H. Zhang, et al., [SuRF: Practical Range Query Filtering with Fast Succinct Tries](https://db.cs.cmu.edu/papers/2018/mod601-zhangA-hm.pdf), in SIGMOD, 2018.
 - - -
 
 ## License
