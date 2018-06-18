@@ -16,7 +16,14 @@ This repository contains a list of papers that focus on the design and implement
 - - -
 
 ## Surveys
-* G. Graefe, [A Survey of B-Tree Locking Techniques](https://dl.acm.org/citation.cfm?id=1806907.1806908), in TODS, 2010
+* D. Lomet, [The Evolution of Effective B-tree: Page Organization and Techniques: A Personal Account](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/p64-lomet.pdf), in ACM SIGMOD Record, 2001.
+* G. Graefe, [A Survey of B-Tree Locking Techniques](https://dl.acm.org/citation.cfm?id=1806907.1806908), in TODS, 2010.
+* G. Graefe, [Modern B-tree techniques](https://www.nowpublishers.com/article/Details/DBS-028), in Foundations and Trends in Databases, 2011.
+
+## HDD-Based Tree Indexing
+* R. Bayer, et al., [Organization and Maintenance of Large Ordered Indices](https://infolab.usc.edu/csci585/Spring2010/den_ar/indexing.pdf), in SIGFIDET, 1970. _(original B-Tree paper)_
+* R. Bayer, et al., [Prefix B-Trees](https://dl.acm.org/citation.cfm?id=320530), in TODS, 1977.
+
 
 ## SSD-Based Tree Indexing
 * Y. Li, et al., [Tree Indexing on Solid State Drives](https://dl.acm.org/citation.cfm?id=1920990), in VLDB, 2010.
@@ -37,6 +44,8 @@ This repository contains a list of papers that focus on the design and implement
 * V. Leis, et al., [The Adaptive Radix Tree: ARTful Indexing for Main-Memory Databases](https://db.in.tum.de/~leis/papers/ART.pdf), in ICDE, 2013.
 * V. Leis, et al., [The ART of Practical Synchronization](https://dl.acm.org/citation.cfm?id=2933352), in DaMoN, 2016.
 * H. Zhang, et al., [Reducing the Storage Overhead of Main-Memory OLTP Databases with Hybrid Indexes](https://dl.acm.org/citation.cfm?id=2915222), in SIGMOD, 2016.
+* R. Binna, et al., [HOT: A Height Optimized Trie Index for Main-Memory Database Systems](https://dl.acm.org/citation.cfm?id=3183713.3196896), in SIGMOD, 2018.
+
 
 ## Bitmap Indexing
 * C. Chan, et al., [Bitmap Index Design and Evaluation](https://dl.acm.org/citation.cfm?id=276336), in SIGMOD, 1998.
@@ -49,7 +58,7 @@ http://www.vldb.org/pvldb/vol9/p96-richter.pdf), in VLDB, 2015.
 
 ## Approximate Indexing
 * M. Athanassoulis, et al., [BF-Tree: Approximate Tree Indexing](http://www.vldb.org/pvldb/vol7/p1881-athanassoulis.pdf), in VLDB, 2014.
-* T. Kraska, et al., [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208), in CoRR, 2017.
+* T. Kraska, et al., [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208), in SIGMOD, 2018.
 * H. Zhang, et al., [SuRF: Practical Range Query Filtering with Fast Succinct Tries](https://db.cs.cmu.edu/papers/2018/mod601-zhangA-hm.pdf), in SIGMOD, 2018.
 - - -
 
