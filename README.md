@@ -32,6 +32,10 @@ This repository contains a list of papers that focus on the design and implement
 * S. Chen, et al., [Persistent B+-Trees in Non-Volatile Main Memory](http://www.vldb.org/pvldb/vol8/p786-chen.pdf), in VLDB, 2015.
 * I. Oukid, et al., [FPTree: A Hybrid SCM-DRAM Persistent and Concurrent B-Tree for Storage Class Memory](https://dl.acm.org/citation.cfm?id=2915251), in SIGMOD, 2016.
 * S. Lee, et al., [WORT: Write Optimal Radix Tree for Persistent Memory Storage Systems](https://www.usenix.org/system/files/conference/fast17/fast17-lee.pdf), in FAST, 2017.
+* J. Arulraj, et al,. [BzTree: A High-Performance Latch-free Range Index for Non-Volatile Memory](http://www.vldb.org/pvldb/vol11/p553-arulraj.pdf), in PVLDB, 2018.
+* T. Wang, et al,. [Easy Lock-Free Indexing in Non-Volatile Memory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8509270), in ICDE, 2018.
+* D. Hwang, et al,. [Endurable Transient Inconsistency in Byte-Addressable Persistent B+-Tree](https://www.usenix.org/system/files/conference/fast18/fast18-hwang.pdf), in FAST, 2018.
+
 
 ## In-Memory Tree Indexing
 * T. Lehman, et al., [A Study of Index Structures for Main Memory Database Management Systems](http://www.vldb.org/conf/1986/P294.PDF), in VLDB, 1986.
@@ -54,12 +58,16 @@ This repository contains a list of papers that focus on the design and implement
 * X. Li, et al., [Algorithmic Improvements for Fast Concurrent Cuckoo Hashing](https://dl.acm.org/citation.cfm?id=2592820), in EuroSys, 2014.
 * S. Richter, et al., [A Seven-Dimensional Analysis of Hashing Methods and Its Implications on Query Processing](
 http://www.vldb.org/pvldb/vol9/p96-richter.pdf), in VLDB, 2015.
+* P. Jin, et al,. [SAL-Hashing: A Self-Adaptive Linear Hashing Index for SSDs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8565887), in TKDE, 2020.
 
 
 ## Approximate Indexing
 * M. Athanassoulis, et al., [BF-Tree: Approximate Tree Indexing](http://www.vldb.org/pvldb/vol7/p1881-athanassoulis.pdf), in VLDB, 2014.
 * T. Kraska, et al., [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208), in SIGMOD, 2018.
-* H. Zhang, et al., [SuRF: Practical Range Query Filtering with Fast Succinct Tries](https://db.cs.cmu.edu/papers/2018/mod601-zhangA-hm.pdf), in SIGMOD, 2018.
+* H. Zhang, et al., [SuRF: Practical Range Query Filtering with Fast Succinct Tries](https://dl.acm.org/doi/pdf/10.1145/3183713.3196931), in SIGMOD, 2018.
+* J. Ding, et al., [ALEX: an updatable adaptive learned index](https://dl.acm.org/doi/pdf/10.1145/3318464.3389711), in SIGMOD, 2020.
+* V. Nathan, et al,. [Learning multi-dimensional indexes](https://dl.acm.org/doi/pdf/10.1145/3318464.3380579), in SIGMOD, 2020.
+* C. Tang, et al,. [XIndex: A Scalable Learned Index for Multicore Data Storage](https://dl.acm.org/doi/pdf/10.1145/3332466.3374547), in, PPoPP, 2020.
 - - -
 
 ## License
