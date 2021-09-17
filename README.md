@@ -24,7 +24,6 @@ This repository contains a list of papers that focus on the design and implement
 * R. Bayer, et al., [Organization and Maintenance of Large Ordered Indices](https://infolab.usc.edu/csci585/Spring2010/den_ar/indexing.pdf), in SIGFIDET, 1970. _(original B-Tree paper)_
 * R. Bayer, et al., [Prefix B-Trees](https://dl.acm.org/citation.cfm?id=320530), in TODS, 1977.
 
-
 ## SSD-Based Tree Indexing
 * Y. Li, et al., [Tree Indexing on Solid State Drives](https://dl.acm.org/citation.cfm?id=1920990), in VLDB, 2010.
 
@@ -35,7 +34,6 @@ This repository contains a list of papers that focus on the design and implement
 * J. Arulraj, et al,. [BzTree: A High-Performance Latch-free Range Index for Non-Volatile Memory](http://www.vldb.org/pvldb/vol11/p553-arulraj.pdf), in PVLDB, 2018.
 * T. Wang, et al,. [Easy Lock-Free Indexing in Non-Volatile Memory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8509270), in ICDE, 2018.
 * D. Hwang, et al,. [Endurable Transient Inconsistency in Byte-Addressable Persistent B+-Tree](https://www.usenix.org/system/files/conference/fast18/fast18-hwang.pdf), in FAST, 2018.
-
 
 ## In-Memory Tree Indexing
 * T. Lehman, et al., [A Study of Index Structures for Main Memory Database Management Systems](http://www.vldb.org/conf/1986/P294.PDF), in VLDB, 1986.
@@ -51,15 +49,21 @@ This repository contains a list of papers that focus on the design and implement
 * R. Binna, et al., [HOT: A Height Optimized Trie Index for Main-Memory Database Systems](https://dl.acm.org/citation.cfm?id=3183713.3196896), in SIGMOD, 2018.
 
 
-## Bitmap Indexing
-* C. Chan, et al., [Bitmap Index Design and Evaluation](https://dl.acm.org/citation.cfm?id=276336), in SIGMOD, 1998.
-
-## Hash Indexing
+## In-Memory Hash Indexing
 * X. Li, et al., [Algorithmic Improvements for Fast Concurrent Cuckoo Hashing](https://dl.acm.org/citation.cfm?id=2592820), in EuroSys, 2014.
 * S. Richter, et al., [A Seven-Dimensional Analysis of Hashing Methods and Its Implications on Query Processing](
 http://www.vldb.org/pvldb/vol9/p96-richter.pdf), in VLDB, 2015.
+
+## NVM-Based Hash Indexing
+* P. Zuo, et al., [Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory](https://www.usenix.org/system/files/osdi18-zuo.pdf), in OSDI, 2018.
+* M. Nam, et al., [Write-Optimized Dynamic Hashing for Persistent Memory](https://www.usenix.org/system/files/fast19-nam.pdf), in FAST, 2019.
+* B. Lu, et al,. [Scalable Hashing on Persistent Memory](http://www.vldb.org/pvldb/vol13/p1147-lu.pdf), in VLDB, 2020.
+
+## SSD-Based Hash Indexing
 * P. Jin, et al,. [SAL-Hashing: A Self-Adaptive Linear Hashing Index for SSDs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8565887), in TKDE, 2020.
 
+## Bitmap Indexing
+* C. Chan, et al., [Bitmap Index Design and Evaluation](https://dl.acm.org/citation.cfm?id=276336), in SIGMOD, 1998.
 
 ## Approximate Indexing
 * M. Athanassoulis, et al., [BF-Tree: Approximate Tree Indexing](http://www.vldb.org/pvldb/vol7/p1881-athanassoulis.pdf), in VLDB, 2014.
