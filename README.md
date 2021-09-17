@@ -9,8 +9,10 @@ This repository contains a list of papers that focus on the design and implement
 - [SSD-Based Tree Indexing](#ssd-based-tree-indexing)
 - [NVM-Based Tree Indexing](#nvm-based-tree-indexing)
 - [In-Memory Tree Indexing](#in-memory-tree-indexing)
+- [In-Memory Hash Indexing](#in-memory-hash-indexing)
+- [NVM-based Hash Indexing](#nvm-based-hash-indexing)
+- [SSD-based Hash Indexing](#ssd-based-hash-indexing)
 - [Bitmap Indexing](#bitmap-indexing)
-- [Hash Indexing](#hash-indexing)
 - [Approximate Indexing](#approximate-indexing)
 
 - - -
